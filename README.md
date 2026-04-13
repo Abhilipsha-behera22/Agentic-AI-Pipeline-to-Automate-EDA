@@ -84,7 +84,7 @@ Instead of manually writing analysis code, the system:
 
 
 
-## 👨‍💻 Author
+##  Author
 
 Abhilipsha Behera
 
